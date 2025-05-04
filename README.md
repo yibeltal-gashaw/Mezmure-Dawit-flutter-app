@@ -1,16 +1,52 @@
-# mezmure_dawit
+# መዝሙር ዳዊት (Mezmur Dawit App)
 
-A new Flutter project.
+መዝሙር ዳዊት የሞባይል መተግበሪያ በFlutter የተሰራ ነው።
 
-## Getting Started
+## መሰረታዊ ተግባራት
 
-This project is a starting point for a Flutter application.
+### 1. የመዝሙር ማውጫ
+- ሁሉንም መዝሙሮች በዝርዝር ማየት
+- መዝሙሮችን በቁጥር፣ በስም እና በይዘት መፈለግ
+- መዝሙሮችን በካቴጎሪ መለየት (ለምሳሌ፦ የቅዳሴ፣ የፍሬቃና፣ የሌሊት ውዳሴ)
 
-A few resources to get you started if this is your first Flutter project:
+### 2. የመዝሙር ዝርዝር ማሳያ
+- የመዝሙሩን ሙሉ ጽሑፍ ማየት
+- የመዝሙሩን ትርጉም ማየት (ከተገኘ)
+- የመዝሙሩን ድምጽ ማዳመጥ
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 3. ተጨማሪ ገጽታዎች
+- ተወዳጅ መዝሙሮችን ማስቀመጥ
+- የመዝሙር ጽሑፍን መጋራት
+- የመተግበሪያው ቋንቋ መምረጥ (አማርኛ/እንግሊዝኛ)
+- የመዝሙር መጽሐፍ ከበይነመረብ ውጭ መጠቀም
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ቴመተግበሪያው እይታዎች
+
+### መግቢያ ገጽ
+![መግቢያ ገጽ](screenshots/Home_Page.png)
+- የመዝሙሮች ዝርዝር
+- የፍለጋ ሳጥን
+- የካቴጎሪ ማውጫ
+
+### የመዝሙር ዝርዝር ገጽ
+![መዝሙር ዝርዝር](screenshots/mezmur_list.png)
+- የመዝሙሮች ዝርዝር ማሳያ
+- ፈጣን ፍለጋ
+- በካቴጎሪ ማጣሪያ
+
+### የመዝሙር ዝርዝር ማሳያ ገጽ
+![መዝሙር ማንበቢያ](screenshots/mezmur_detail.png)
+- የመዝሙር ሙሉ ጽሑፍ
+- የድምጽ ማጫወቻ
+- መጋሪያ አማራጭ
+- ወደ ተወዳጆች መጨመሪያ
+
+### ቅንብሮች ገጽ
+![ቅንብሮች](screenshots/settings.png)
+- የቋንቋ ምርጫ
+- የጽሑፍ መጠን ማስተካከያ
+- የጨለማ ሁነታ ማብሪያ/ማጥፊያ
+- የበይነመረብ ውጭ አጠቃቀም ቅንብሮች
+
+---
+መተግበሪያው ቀላል እና ለመጠቀም ምቹ በሆነ መልኩ የተዘጋጀ ሲሆን፣ ሁሉም  ሰው በቀላሉ ሊጠቀምበት የሚችል ነው።
